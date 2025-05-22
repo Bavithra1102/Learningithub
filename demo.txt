@@ -3,4 +3,8 @@ This is my first file welcome
 Hey bavi!!!! you got selected
 hello baby
 hello
+<<<<<<< HEAD
 Hey boi
+=======
+hey girl
+>>>>>>> 93cdeb66531b4cf96b7e6cd7bc0121b2aa620dad
